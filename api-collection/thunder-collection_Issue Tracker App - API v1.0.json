@@ -1,0 +1,28 @@
+{
+    "client": "Thunder Client",
+    "collectionName": "Issue Tracker App - API v1.0",
+    "dateExported": "2023-10-13T14:30:13.127Z",
+    "version": "1.1",
+    "folders": [],
+    "requests": [
+        {
+            "_id": "3192871a-86df-4f63-8772-aafa8e88691c",
+            "colId": "fbd90cf7-1abd-4b50-90f0-72323abdb45f",
+            "containerId": "",
+            "name": "http://localhost:3000/api/issues",
+            "url": "http://localhost:3000/api/issues",
+            "method": "POST",
+            "sortNum": 10000,
+            "created": "2023-10-13T14:29:55.903Z",
+            "modified": "2023-10-13T14:29:55.903Z",
+            "headers": [],
+            "params": [],
+            "body": {
+                "type": "json",
+                "raw": "{\n  \"title\": \"Testing issue\",\n  \"description\": \"This is a test issue for testing purpose.\"\n}",
+                "form": []
+            },
+            "tests": []
+        }
+    ]
+}
